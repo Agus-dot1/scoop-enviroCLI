@@ -1,0 +1,14 @@
+{
+    "version": "0.4.2",
+    "description": "A powerful Windows command-line environment manager",
+    "homepage": "https://github.com/Agus-dot1/EnviroCLI",
+    "license": "MIT",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Agus-dot1/EnviroCLI/releases/download/v0.4.2/EnviroCLI-win-x64.zip",
+            "hash": "5310F164ABE84F7DAC3D1EDA4ACC9EE1135831C03C3CA6437ACD248EC61B84F4"
+        }
+    },
+    "bin": "EnviroCLI.exe",
+    "persist": "config"
+}
